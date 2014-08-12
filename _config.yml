@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            StephDiraimondo
+tagline:          'homepage'
+description:      <img src="https://avatars3.githubusercontent.com/u/6768783?v=2&s=460" style="width:128px; height:128px;" />
+url:              https://stephdiraimondo.github.io/
 baseurl:          '/'
 paginate:         5
 
@@ -21,4 +21,4 @@ author:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/StephDiRaimondo
