@@ -14,11 +14,14 @@ baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stéphane DI RAIMONDO'
+  url:            https://twitter.com/StephDiraimondo
 
 # Custom vars
 version:          1.0.0
+img_path:         public\images
+github_logo:      public\images\GitHub-Mark-Light-32px.png
+menu_label:       public\images\menu.png
 
 github:
   repo:           https://github.com/StephDiRaimondo
