@@ -20,7 +20,7 @@ author:
 # Custom vars
 version:          1.0.0
 img_path:         public\images
-github_logo:      public\images\GitHub-Mark-Light-32px.png
+github_logo:      https://sciactive.github.io/pnotify/includes/github-icon.png
 menu_label:       public\images\menu.png
 
 github:
