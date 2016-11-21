@@ -29,6 +29,10 @@
     <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
     <a class="sidebar-nav-item" href="{{ site.github.repo }}"><img src="{{ site.github_logo }}" /></a>
     <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+    
+    {% if site.linkedin_username %}
+      <li><a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+    {% endif %}
   </nav>
 
   <div class="sidebar-item">
